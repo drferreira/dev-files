@@ -13,7 +13,7 @@ foo@bar:~$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/V
 
 ## Move Config File Vim
 ```console
-foo@bar:~$ cp ~/.vimrc ~/
+foo@bar:~$ cp dev-files/.vimrc ~/
 ```
 
 ## Install Plugins 
